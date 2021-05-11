@@ -33,7 +33,7 @@
     "@webscopeio/react-textarea-autocomplete": "^4.7.0",
     "emoji-mart": "^3.0.0",
     "less-loader": "^6.1.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-click-outside": "^3.0.1",
     "react-copy-to-clipboard": "^5.0.2",
